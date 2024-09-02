@@ -1,0 +1,86 @@
+body
+{
+    background-color: black;
+    color: dimgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header
+{
+    background-color: dimgrey;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer
+{
+    background-color: dimgrey;
+}
+.button1 
+{
+    background-color: dimgrey;
+    margin-bottom: 10px;
+    margin-left: 515px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+.button2 
+{
+    background-color: dimgrey;
+    margin-bottom: 10px;
+    margin-left: 32px;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+video
+{
+width: 1080px;
+height: 720px;
+}
+#container1 #image
+{
+    border: 15px dimgray;
+    color: dimgray;
+    margin-left: 400px;
+    margin-right: auto;
+}
+#p1
+{
+    margin-left: 125px;
+    margin-right: auto;
+}
+#container1 #image #imageText
+{
+    margin-left: 150px;
+    margin-right: auto;
+}
+video
+{
+    margin-left: 125px;
+    margin-right: auto;
+}
+img
+{
+    width: 500px;
+    height: auto;
+}
+h1
+{
+    margin-left: 490px;
+}
+h2
+{
+    margin-left: 450px;
+}
